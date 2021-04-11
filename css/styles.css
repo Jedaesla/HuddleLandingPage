@@ -158,6 +158,7 @@ a {
         height: 55px;
         font-size: 1rem;
         border-radius: 2rem;
+        color: var(--violet);
     }
     .footer {
         width: 100%;
